@@ -1,13 +1,11 @@
 # Практична 3
-**Використання Markdown та його оформлення.Способи документації проєкту**
+**Використання Markdown та його оформлення. Способи документації проєкту**
 ## Встановлення
 ```bash
-git clone [https://github.com/extchik/pract-2.git](https://github.com/extchik/pract-2.git)
+git clone [](https://github.com/extchik/pract-2.git)
 ```
 ## Використання
-
 **Для перегляду та запуску проєкту відкрийте файл `index.html`**
-
 ```bash
 npx serve .
 ```
@@ -23,3 +21,8 @@ npx serve .
 | **Цитата** | `> Текст` | > Примітка |
 ### Прев'ю репозиторію
 ![Скриншот репозиторію Практ 3](image.png)
+## Ліцензія
+**Навчальний проєкт. Усі права захищено (All Rights Reserved)**
+## Автори
+**Розробник:** extchik
+**GitHub:** [@extchik](https://github.com/extchik)
